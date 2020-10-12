@@ -17,9 +17,9 @@ This program was written as a Week-7 homework assignment for Skill Distillery. I
 * Connecting to Servers
 
 ## How To Run
-* The user is immediately presented the menu which contains the options to lookup a given film. by either the ID numnber, or a keyword.
+* The user is immediately presented the menu which contains the options to lookup a given film by either the ID numnber, or keyword.
 * The program executes the requested query and pulls the assosiated data from the database.
-* The user may commit as many quaries as they wish before choosing to close the program.
+* The user may commit as many queries as they wish before choosing to close the program.
 
 ## Lessons Learned
 This was a real brainer. The actual code was fairly straight-forward, however the syntax of the database interfacing components took some additional researching and massaging before they would function as expected.
